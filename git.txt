@@ -63,3 +63,6 @@ git rebase -i HEAD~3                            	Interactive rebase for last 3 c
 git rebase --continue                           	Continue rebase after resolving conflicts.
 git rebase --abort                               	Cancel a rebase in progress.
 
+git diff main origin/main                        Shows diff b/w main and branch
+git diff master branch
+ 
